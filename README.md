@@ -1,4 +1,4 @@
-# 💊 Pharma Drug Sales Analysis Dashboard
+# 💊 Pharma Drug Sales Analysis Dashboard [Link](https://github.com/prathaM27092000/Pharma-Drug-Sales-Dashboard)
 
 ![Dashboard Screenshot](Screenshot%202025-07-16%20132852.png)
 
@@ -54,4 +54,4 @@ The data for this dashboard is split across four key datasets:
 - 🔁 Scrollable visuals and dynamic slicers
 
 ---
-[Pharma Draug Salees Dashboard 🔗](https://github.com/prathaM27092000/Pharma-Drug-Sales-Dashboard)
+[Pharma Draug Sales Dashboard Github repository 🔗](https://github.com/prathaM27092000/Pharma-Drug-Sales-Dashboard)
