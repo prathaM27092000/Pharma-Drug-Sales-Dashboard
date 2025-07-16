@@ -54,4 +54,4 @@ The data for this dashboard is split across four key datasets:
 - 🔁 Scrollable visuals and dynamic slicers
 
 ---
-[Pharma Draug Salees Dashboard](https://github.com/prathaM27092000/Pharma-Drug-Sales-Dashboard)
+[Pharma Draug Salees Dashboard 🔗](https://github.com/prathaM27092000/Pharma-Drug-Sales-Dashboard)
