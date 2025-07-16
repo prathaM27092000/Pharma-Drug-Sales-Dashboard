@@ -1,4 +1,4 @@
-# 💊 Pharma Drug Sales Analysis Dashboard [Repository](https://github.com/prathaM27092000/Pharma-Drug-Sales-Dashboard)
+# 💊 Pharma Drug Sales Analysis Dashboard [Repository🔗](https://github.com/prathaM27092000/Pharma-Drug-Sales-Dashboard)
 
 ![Dashboard Screenshot](Screenshot%202025-07-16%20132852.png)
 
