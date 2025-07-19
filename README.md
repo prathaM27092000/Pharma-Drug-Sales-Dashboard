@@ -55,4 +55,11 @@ The data for this dashboard is split across four key datasets:
 - 🔁 Scrollable visuals and dynamic slicers
 
 ---
+
+## 👋 Contact Author
+---
+**Prathamesh Gujja**  
+📍 Pune, India  
+📧 prathameshgujja10@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja) | 🌐 Visit [My Portfolio](https://pratham27092000.github.io/Portfolio/) | [GitHub](https://github.com/prathaM27092000)
 [Pharma Draug Sales Dashboard Github repository 🔗](https://github.com/prathaM27092000/Pharma-Drug-Sales-Dashboard)
